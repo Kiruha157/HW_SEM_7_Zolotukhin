@@ -1,0 +1,15 @@
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/bin/Debug/net6.0/TASK_2
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/bin/Debug/net6.0/TASK_2.deps.json
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/bin/Debug/net6.0/TASK_2.runtimeconfig.json
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/bin/Debug/net6.0/TASK_2.dll
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/bin/Debug/net6.0/TASK_2.pdb
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.csproj.AssemblyReference.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.AssemblyInfoInputs.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.AssemblyInfo.cs
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.csproj.CoreCompileInputs.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.dll
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/refint/TASK_2.dll
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.pdb
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/TASK_2.genruntimeconfig.cache
+/Users/smkirill/Documents/Обучение GB/CSHARP/SEM_7/HW_SEM_7/TASK_2/obj/Debug/net6.0/ref/TASK_2.dll
