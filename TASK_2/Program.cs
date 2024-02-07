@@ -14,6 +14,6 @@ int CalcAck (int numM, int numN)
     return result;
 }
 
-Console.WriteLine($"Результат вычесления функции Аккермана: {CalcAck(3,10)}");
+Console.WriteLine($"Результат вычисления функции Аккермана: {CalcAck(3,10)}");
 
 // Понять бы зачем она нужна на практике...
